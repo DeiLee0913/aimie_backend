@@ -1,0 +1,29 @@
+### Gradle ###
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### IDE ###
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+.sts4-cache/
+.factorypath
+.springBeans
+.apt_generated
+
+### Output directories ###
+bin/
+out/
+
+### NetBeans ###
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbproject/private/
